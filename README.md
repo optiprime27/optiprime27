@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://capsule-render.vercel.app/api?type=transparent#gh-light-mode-only">
     <img
-      src="https://capsule-render.vercel.app/api?type=transparent&color=384052&height=240&text=YOUR_NAME's%20Github&animation=&fontColor=4d6189&fontSize=60"
+      src="https://capsule-render.vercel.app/api?type=transparent&color=384052&height=240&text=optiprime's%20Github&animation=&fontColor=4d6189&fontSize=60"
     />
   </a>
 </div>
@@ -44,14 +44,18 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- 여행 경비 정산 서비스 두더치 BE
-- 학회원 대상 알고리즘 문제풀이 경쟁 플랫폼 Hi-Rating BE, UI 디자인 <sub>(2025.01 ~ 2025.05)</sub>
-- HI-ARC 학회원을 위한 통합 플랫폼 기획 <sub>(2025.05 ~ 2025.09)</sub>, UI 디자인 <sub>(2024.09)</sub>
-- 뉴스와 SNS 데이터를 활용한 주가변화율 예측; ChatGPT와 FinBERT 감성 분석 비교를 중심으로
-- 플레이리스트 기반 사용자 MBTI 예측
+- 여행 경비 정산 서비스 두더치 - BE
+- 학회원 대상 알고리즘 문제풀이 경쟁 플랫폼 Hi-Rating - BE, UI 디자인 <sub>(2025.01 ~ 2025.05)</sub>
+- HI-ARC 학회원을 위한 통합 플랫폼 - [기획](https://intra.hiarc-official.com) <sub>(2025.05 ~ 2025.09)</sub>, [UI 디자인](https://hiarc-official.com) <sub>(2024.09)</sub>
+- 매일 하나씩 실천하는 챌린지 서비스 1Day1Streak - BE <sub>(2025.04 ~ 2025.10)</sub>
+
+## Achievements
+
+- 멋쟁이사자처럼 대학 12기 아이디어톤 본선 진출
+- 2024 멋쟁이사자처럼 신촌톤 우수상
+- 2025 2학기 MATRIX 컨퍼런스 최우수상 <sub>(뉴스와 SNS 데이터를 활용한 주가변화율 예측; ChatGPT와 FinBERT 감성 분석 비교를 중심으로)</sub>
   
 <br>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=optiprime27&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/YOUR_GITHUB_ID" width="45%"/>
+  <img src="https://render.gitanimals.org/farms/optiprime27" width="35%"/>
 </a>
