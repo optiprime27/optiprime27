@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://capsule-render.vercel.app/api?type=transparent#gh-light-mode-only">
     <img
-      src="https://capsule-render.vercel.app/api?type=transparent&color=384052&height=240&text=optiprime's%20Github&animation=&fontColor=4d6189&fontSize=60"
+      src="https://capsule-render.vercel.app/api?type=transparent&color=fbef6e&height=240&text=optiprime's%20Github&animation=&fontColor=fce08c&fontSize=60"
     />
   </a>
 </div>
