@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ICPC Sinchon 23S, 24W, 24S 운영진 <sub>(2023.07 ~ 2023.09, 2023.12 ~ 2024.09)</sub>, 25W 디자인  <sub>(2024.10 ~ 2025.02)</sub>
 - 연합 DevTalk 세미나 TF <sub>(2023.08 ~ 2024.11)</sub>
 - 멋쟁이사자처럼 홍익대학교 12기 BE <sub>(2024.03 ~ 2024.12)</sub>
-- HI-ARC 개발팀 <sub>(2024.09 ~ 2025.09)</sub>
+- 홍익대학교 알고리즘 학회 HI-ARC 개발팀 <sub>(2024.09 ~ 2025.09)</sub>
 - 홍익대학교 인공지능 학회 MATRIX <sub>(2026.01 ~ 2026.02)</sub>
 
 ## Projects
